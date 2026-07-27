@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1662
+slug  : the-sobel-edge
+seal  : 40ac6ed9b5686d76febbd8e78a9712640050f308e9755cc7a4baceb2048b0199
+prev  : 64c41a7f983448d5f60467ae1a1df495a4dc174efa6dae2236713af1d75fea9d
+link  : f0a98db212aad2bafa072ab363707cd180cf9570d7c0b88bcfb5cbdc0154c02f
+head  : 38cb4bf34815282c96c05012ad7f74afd9d5757c8530e81336b009fcd61594aa
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
